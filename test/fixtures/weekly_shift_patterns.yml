@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  monthly_schedule: one
+  week_number: 1
+  night_shift_count: 1
+  day_shift_count: 1
+  evening_shift_count: 1
+
+two:
+  monthly_schedule: two
+  week_number: 1
+  night_shift_count: 1
+  day_shift_count: 1
+  evening_shift_count: 1

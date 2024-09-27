@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  requesting_user: one
+  requested_user: one
+  shift: one
+  status: MyString
+
+two:
+  requesting_user: two
+  requested_user: two
+  shift: two
+  status: MyString

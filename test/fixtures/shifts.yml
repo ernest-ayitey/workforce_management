@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  weekly_shift_pattern: one
+  shift_type: MyString
+  start_time: 2024-09-27 15:45:34
+  end_time: 2024-09-27 15:45:34
+
+two:
+  weekly_shift_pattern: two
+  shift_type: MyString
+  start_time: 2024-09-27 15:45:34
+  end_time: 2024-09-27 15:45:34
